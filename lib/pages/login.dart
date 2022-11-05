@@ -18,7 +18,7 @@ class LoginPage extends StatelessWidget {
             SizedBox(
               height: 30.0,
             ),
-            Text("welcome",
+            Text("welcome $name",
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
             SizedBox(
               height: 30.0,
